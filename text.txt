@@ -1,0 +1,285 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Bungee Shade' rel='stylesheet'>
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <title>Origami-Webpage</title>
+</head>
+<body>
+    <div class="Header">
+    <h1>Origami-Webpage</h1>
+    <a href="aboutUs.html" target="_blank">
+    <butto style="margin-right: 1612px" >About Us</button>
+    </a>
+    <a href="followUs.html" target="_blank">
+    <button>Follow Us</button>
+    </a>
+    </div>
+    <br>
+    <br>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h3>NOTE: Press On The Images To Open The Tutorial</h3>
+
+    <h2>Camel</h2>
+    <a href="http://origami.me/camel/" target="_blank">
+    <img src="images/camel.png" alt="Camel"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT CAMEL</h2>
+
+    <ol>
+        <li><p>Camel Can Go For Weeks Without Drinking Water</p></li>
+        <li><p>Camel Are Also Known As Ship Of The Desert</p></li>
+        <li><p>Camel Store Fat In Parts Of Their Bodies Known As Humps</p></li>
+        <li><p>Camel Milk Is Among The Healthiest Milk In The World</p></li>
+    </ol>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h2>Chameleon</h2>
+    <a href="http://origami.me/chameleon/" target="_blank">
+    <img src="images/chameleon.png" alt="Chameleon"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT CHAMELEON</h2>
+
+    <ol>
+        <li><p>Chameleons, of course, are famous for changing color. This happens because their cells have pigment-shifting abilities. This means that they can open and close cells often to change from green to brown and back again.</p></li>
+        <li><p>Chameleons have impressively long tongues. These will spring out of their mouths at lightning-quick pace to catch prey such as bugs and insects. The average chameleon tongue is thought to be up to twice the length of its body, which means the critter can catch prey from stunning distances away</p></li>
+        <li><p>Chameleons will thrive in warm to hot environments. That’s likely why they love Madagascar so much! You will also find them in desert regions, meaning that they can withstand incredible levels of heat.</p></li>
+        <li><p>Sadly, chameleons don’t tend to live too long – between two to ten years in captivity. However, it’s thought that they can actually live for longer in the wild!</p></li>
+    </ol>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h2>Pigeon</h2>
+    <a href="http://origami.me/pigeon/" target="_blank">
+    <img src="images/pigeon.png" alt="Pigeon"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT Pigeon</h2>
+
+    <ol>
+        <li><p>Pigeons have been around humans for many thousands of years. 5,000 years old Mesopotamian tablets have been found illustrating the domestication of rock doves, a breed of pigeon.</p></li>
+        <li><p>They have a worthy mention on Egyptian Hieroglyphs tablets as well, which were used until 400 AD by the Ancient Egyptians.</p></li>
+        <li><p>History has suggested that they have been a companion of humans for more than 10,000 years and in all probability even go beyond that.</p></li>
+        <li><p>They have conveyed messages evading enemy fires and poisoned gases during both World War 1 and World War 2 to rescue the army and the navy stuck in deadlock situations.</p></li>
+    </ol>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h2>Teddy-Bear</h2>
+    <a href="http://origami.me/teddy-bear/" target="_blank">
+    <img src="images/teddy.png" alt="Teddy-Bear"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT BEARS</h2>
+
+    <ol>
+        <li><p>Bears are extraordinarily intelligent animals. They have far superior navigation skills to humans; excellent memories; large brain to body ratio; and use tools in various contexts from play to hunting.</p></li>
+        <li><p>Bears grieve deeply for others. Cubs are known to moan and cry when separated from their mothers.  This can go on for weeks if their mothers are killed by hunters.</p></li>
+        <li><p>Bears have excellent senses of smell, sight and hearing. They can smell food, cubs, a mate or predators from miles away. Their great eyesight allows them to detect when fruits are ripe</p></li>
+        <li><p>
+            Some species of Asiatic bear build nests in the trees. They can use these for hiding, eating and even sleeping</p></li>
+    </ol>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h2>Panda</h2>
+    <a href="http://origami.me/panda/" target="_blank">
+    <img src="images/panda.png" alt="Panda"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT PANDA</h2>
+    
+    <ol>
+        <li><p>The panda’s name is actually shortened from Giant Panda – it’s likely just easier to say!</p></li>
+        <li><p>Pandas thrive on bamboo. They actually live in China’s thick bamboo forests, up towards the mountains. However, they can also be found in other cool, wet areas of land.</p></li>
+        <li><p>They can even climb trees, particularly thanks to their retractable claws. They can learn to do this from a young age, around seven months old!</p></li>
+        <li><p>Panda bears have pupils that are more in line with cats than their fellow bears! That’s because they are slits, not circles.</p></li>
+    </ol>
+
+    <hr style="height:10px; width:80%; border-width:0; color:rgb(223, 16, 113); background-color:rgb(223, 16, 113)">
+
+    <h2>Cicada</h2>
+    <a href="http://origami.me/flying-cicada/" target="_blank">
+    <img src="images/cicada.png" alt="Cicada"  ">
+    </a>
+    <br>
+    <h2>INTRESTING FACTS ABOUT CICADA</h2>
+
+    <ol>
+        <li><p>Cicadas are members of the Cicadoidea superfamily</p></li>
+        <li><p>There are about 3,000 known species of cicadas worldwide.</p></li>
+        <li><p>A cicada’s eye color can be blue, red or white.</p></li>
+        <li><p>Cicadas are separated into two classifications, annual cicadas and periodic cicadas.</p></li>
+    </ol>
+
+</body>
+</html> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.header{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  font-size: 18px;
+  font-family: cursive;
+  font-weight: 40;
+  color: rgb(255, 255, 255);
+}
+
+.body{
+  background-image: url(Images/bg.jpg);
+  font-size: 18px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(255, 255, 255);
+  justify-content: space-between;
+}
+
+.grid1{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  justify-content: space-evenly;
+}
+
+.grid2{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  justify-content: space-evenly;
+}
+
+.grid3{
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  justify-content: space-evenly;
+}
+
+.grid1 img{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+.grid2 img{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+.grid3 img{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+.origami1{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: violet;
+  width: 310px;
+  font-family: cursive;
+}
+
+.origami2{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: indigo;
+  width: 310px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.origami3{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: lightgreen;
+  width: 310px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.origami4{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: lightblue;
+  width: 310px;
+  font-family:serif;
+  font-size: 18px;
+}
+
+.origami5{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: yellow;
+  width: 310px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.origami6{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: orange;
+  width: 310px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.origami7{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: red;
+  width: 310px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.origami8{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 20px;
+  background-color: white;
+  width: 310px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+} */
